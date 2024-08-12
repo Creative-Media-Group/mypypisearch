@@ -13,7 +13,7 @@ setuptools.setup(
     name="mypypisearch",
     version=version,
     author="tct123",
-    author_email="shidenko97@gmail.com",
+    author_email="tct1234@protonmail.com",
     description="Replacement of temporarily deprecated pip search command",
     long_description=long_description,
     long_description_content_type="text/markdown",
