@@ -1,6 +1,6 @@
 import setuptools
 
-from pypisearch import __version__ as version
+from mypypisearch import __version__ as version
 
 
 with open("README.md", "r", encoding="utf-8") as file:
@@ -28,7 +28,7 @@ setuptools.setup(
     install_requires=requirements,
     entry_points={
         "console_scripts": [
-            "pypisearch=pypisearch.__main__:main",
+            "mypypisearch=mypypisearch.__main__:main",
         ],
     },
 )

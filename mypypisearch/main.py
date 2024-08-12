@@ -1,6 +1,6 @@
 import argparse
 
-from pypisearch.search import Search
+from mypypisearch.search import Search
 
 
 def main() -> None:

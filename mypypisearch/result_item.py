@@ -1,7 +1,7 @@
 from importlib.metadata import PackageNotFoundError
 from importlib.metadata import version as pkg_version
 
-import pypisearch.re_constants as const
+import mypypisearch.re_constants as const
 
 
 class ResultItem:

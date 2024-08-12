@@ -3,8 +3,8 @@ from typing import List, Optional
 
 import tabulate
 
-from pypisearch import re_constants as const
-from pypisearch.result_item import ResultItem
+from mypypisearch import re_constants as const
+from mypypisearch.result_item import ResultItem
 
 
 class Search:
