@@ -10,9 +10,7 @@ def main() -> None:
     arg_parser = argparse.ArgumentParser(
         description="Custom pip-search utility by pypi search line"
     )
-    arg_parser.add_argument(
-        "q", metavar="query", type=str, help="query for search"
-    )
+    arg_parser.add_argument("q", metavar="query", type=str, help="query for search")
     arg_parser.add_argument(
         "-p",
         "--page",

@@ -52,8 +52,4 @@ class ResultItem:
 
     @property
     def installed_description(self) -> str:
-        return (
-            f"[installed {self.get_installed_version}] "
-            if self.is_installed
-            else ""
-        )
+        return f"[installed {self.get_installed_version}] " if self.is_installed else ""
