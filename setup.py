@@ -17,7 +17,7 @@ setuptools.setup(
     description="Replacement of temporarily deprecated pip search command",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/shidenko97/pypisearch",
+    url="https://github.com/Creative-Media-Group/mypypisearch",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

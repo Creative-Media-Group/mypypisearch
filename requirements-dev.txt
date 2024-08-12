@@ -10,10 +10,10 @@ flake8
 identify
 idna
 mccabe
-mypy-extensions
+mypy - extensions
 nodeenv
 pathspec
-pre-commit
+pre - commit
 pycodestyle
 pyflakes
 PyYAML
@@ -22,7 +22,7 @@ requests
 six
 tabulate
 toml
-typed-ast
-typing-extensions
+typed - ast
+typing - extensions
 urllib3
 virtualenv
